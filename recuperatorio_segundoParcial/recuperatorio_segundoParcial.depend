@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recuperatorio_segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659356702 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recuperatorio_segundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1659356702 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_3\recuperatorio_segundoparcial\linkedlist.h
+
